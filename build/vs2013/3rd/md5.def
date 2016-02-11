@@ -1,0 +1,2 @@
+EXPORTS
+	luaopen_md5_core

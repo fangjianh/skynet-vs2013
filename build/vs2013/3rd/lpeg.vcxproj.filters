@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{9ebf698b-6c98-4fd9-ae67-cbdd0a000184}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\3rd\lpeg\lpcap.c">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\3rd\lpeg\lpcode.c">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\3rd\lpeg\lpprint.c">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\3rd\lpeg\lptree.c">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\3rd\lpeg\lpvm.c">
+      <Filter>Source files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\3rd\lpeg\lpcap.h">
+      <Filter>Source files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\3rd\lpeg\lpcode.h">
+      <Filter>Source files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\3rd\lpeg\lpprint.h">
+      <Filter>Source files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\3rd\lpeg\lptree.h">
+      <Filter>Source files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\3rd\lpeg\lptypes.h">
+      <Filter>Source files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\3rd\lpeg\lpvm.h">
+      <Filter>Source files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="lpeg.def">
+      <Filter>Source files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

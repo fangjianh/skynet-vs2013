@@ -1,0 +1,38 @@
+EXPORTS
+	__sync_fetch_and_sub
+	__sync_fetch_and_add
+	__sync_add_and_fetch
+	__sync_sub_and_fetch
+	__sync_lock_test_and_set
+	__sync_lock_release
+	__sync_synchronize
+	__sync_bool_compare_and_swap
+	__sync_and_and_fetch
+
+	cpoll_startup
+	cpoll_create
+	cpoll_ctl
+	cpoll_wait
+	cpoll_close
+	cpoll_cleanup
+
+	dlopen
+	dlerror
+	dlsym
+
+	getpid
+	kill
+	;gethostname
+	usleep
+	sleep
+	clock_gettime
+	flock
+	sigaction
+	pipe
+	daemon
+	strsep
+	write
+	read
+	close
+
+

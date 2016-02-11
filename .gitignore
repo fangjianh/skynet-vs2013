@@ -1,0 +1,23 @@
+*.o
+*.a
+/skynet
+/skynet.pid
+3rd/lua/lua
+3rd/lua/luac
+/cservice
+/luaclib
+*.so
+*.dSYM
+.DS_Store
+*.user
+build/vs2013/output
+build/vs2013/My Amplifier XE Results*
+*.opensdf
+*.sdf
+*.suo
+*.exe
+*.ilk
+*.pdb
+*.dll
+*.exp
+*.lib
